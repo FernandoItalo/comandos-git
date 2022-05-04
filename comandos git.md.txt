@@ -1,0 +1,13 @@
+*Comandos Git
+
+dir Lista as pastas;
+cd Navega entre as pastas
+cd/ Entra na base do diretório
+cd .. Volta um nível
+cls Limpa a tela
+Ctrl l Limpa a tela
+mkdir Cria pasta
+del Deleta os arquivos na pasta
+rmdir Apaga o diretorio
+git init Cria um repositório
+git status Diz informações de como esta o arquivo
